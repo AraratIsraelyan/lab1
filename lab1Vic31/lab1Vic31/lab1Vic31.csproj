@@ -56,5 +56,6 @@
   </Target>
   <Target Name="AfterBuild">
   </Target>
+  Привет!
   -->
 </Project>
